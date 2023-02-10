@@ -1,0 +1,52 @@
+body {
+   background-image: url("Background\ image.jpg"); 
+   background-repeat: no-repeat;
+   background-position: right top;
+   background-attachment: fixed;
+   background-size: 100%;
+   font-family: 'Signika Negative', sans-serif;
+}
+
+.login_form {
+    color: white;
+    background-color:rgba(245,245,245,0.5) ;
+    padding: 8px 34px;
+    width: 290px;
+    height: 340px;
+    border-radius: 20px;
+    margin-top: 100px;
+    margin-left: 840px; 
+
+}
+
+h1 {
+    font-weight: 600;
+}
+
+input {
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-top: 6px;
+    height: 30px;
+    width: 274px;
+}
+
+button {
+    background-color: rgba(243, 196, 196);
+    border-color: rgba(0,0,0,0.5);
+    cursor: pointer;
+    padding: 6px 88px;
+    border-radius: 8px;
+    margin-left:40px ;
+}
+
+p {
+    text-align: center;
+}
+
+footer {
+    color: white;
+    margin-left: 780px;
+    margin-top: 20px;
+}
